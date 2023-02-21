@@ -38,7 +38,5 @@
         <property name="maxActive" value="${jdbc.maxActive}"/>
 	</bean>		
 	
-	
-				
 				
 </beans>
